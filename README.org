@@ -1,0 +1,9 @@
+* cl-scripting
+
+cl-scripting, utilities for scripting in Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/fare/cl-scripting.git |
+| commit  | 60c357e                                      |
+| systems | cl-scripting                                 |
+|---------+----------------------------------------------|
